@@ -9,7 +9,7 @@ These tutorials don't require you to be an expert programmer- a basic knowledge 
 
 ## Tutorials
 
-1. __Accessing JWST Data__
+1. [__Accessing JWST Data__](https://github.com/Kappibw/JWST/blob/main/1_accessing_jwst_data.ipynb)
 
     This tutorial covers finding, programmatically downloading, and viewing real data from the telescope.
   
