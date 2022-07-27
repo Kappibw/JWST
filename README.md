@@ -5,7 +5,7 @@ Like many people, I'm incredibly excited about the James Webb Space Telescope, a
 
 I'm figuring it out as I go along, and taking notes in the form of ipython notebooks, stored here, and hope they might be helpful for others with a similar background to me. Happy exoplaneting!
 
-These tutorials don't require you to be an expert programmer- a basic knowledge of Python should be enough.
+These tutorials do not require you to be an expert programmer- a basic knowledge of Python should be enough.
 
 ## Tutorials
 
