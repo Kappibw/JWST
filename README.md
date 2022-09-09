@@ -11,8 +11,12 @@ These tutorials do not require you to be an expert programmer- a basic knowledge
 
 1. [__Accessing JWST Data__](https://github.com/Kappibw/JWST/blob/main/1_accessing_jwst_data.ipynb)
 
-    This tutorial covers finding, programmatically downloading, and viewing real data from the telescope.
+    This tutorial covers finding, programmatically downloading, and viewing real image data from the telescope.
   
-2. __Analysing Exoplanet JWST Data__
+2. __Primer on Exoplanets and JWST__
 
-    Coming soon (I'm working on it now), this tutorial covers retrieving exoplanet atmosphere spectra from JWST - specifically from WASP-96b, the exoplanet from the [first images](https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-reveals-steamy-atmosphere-of-distant-planet-in-detail) released by NASA. The tutorial then takes you through the process of analysing the planet by modeling your own exoplanet atmosphere to compare it to using exoplanet modeling software [PICASO](https://natashabatalha.github.io/picaso/).
+    This is a 2 part tutorial, where the goal is to first get and understand some real JWST exoplanet spectra, and then go through the process of modeling a synthetic exoplanet to match the observed data- thereby telling us what molecules are present in the planet's atmosphere.
+    
+    Part 1: [Retrieving JWST Exoplanet Spectra](https://github.com/Kappibw/JWST/blob/main/2_retrieving_jwst_spectra.ipynb)
+    
+    Part 2: (coming soon) Modeling Exoplanet Spectra
