@@ -19,4 +19,4 @@ These tutorials do not require you to be an expert programmer- a basic knowledge
     
     Part 1: [Retrieving JWST Exoplanet Spectra](https://github.com/Kappibw/JWST/blob/main/2_retrieving_jwst_spectra.ipynb)
     
-    Part 2: (coming soon) Modeling Exoplanet Spectra
+    Part 2: [Modeling Exoplanet Spectra](https://github.com/Kappibw/JWST/blob/main/3_modeling_exoplanets.ipynb)
